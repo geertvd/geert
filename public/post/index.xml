@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Geert van Dort</title>
+    <link>http://geert.gent/post/</link>
+    <description>Recent content in Posts on Geert van Dort</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://geert.gent/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Dummy blogpost</title>
+      <link>http://geert.gent/post/blogpost/</link>
+      <pubDate>Wed, 13 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://geert.gent/post/blogpost/</guid>
+      <description>
+
+&lt;h3 id=&#34;write-a-blogpost:630433e5cb9b1be202973053499da225&#34;&gt;&lt;strong&gt;Write a blogpost&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;I should write a blogpost&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
