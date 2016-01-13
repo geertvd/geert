@@ -3,7 +3,7 @@ date = "2015-06-20T14:02:37+02:00"
 title = "About"
 +++
 
-[My resume](/data/resume.pdf "Resume")
+[My resume](/files/resume.pdf "Resume")
 
 I am an experienced Drupal Backend Developer. 
 Besides my professional work I contribute to both drupal core and contrib in my free time. I also give talks on local events.

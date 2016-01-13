@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://geert.gent"
+baseurl = "http://geertvd.github.io/"
 languageCode = "en-us"
 title = "Geert van Dort"
 theme = "hugo-cactus-theme"
