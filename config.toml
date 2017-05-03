@@ -2,7 +2,7 @@
 baseurl = "http://geertvd.github.io/"
 languageCode = "en-us"
 title = "Geert van Dort"
-theme = "hugo-cactus-theme"
+theme = "hugo-theme-cactus-plus"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
 # Disable comments by leaving disqusShortname empty

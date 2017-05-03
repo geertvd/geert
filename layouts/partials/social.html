@@ -1,8 +1,0 @@
-{{ $iconStyle := .Site.Params.socialIconStyle }}
-<div id="social">
-    {{ range $key, $val := .Site.Social }}
-    <a target="_blank" class="symbol" href="{{$val}}">
-        {{ $iconStyle }}{{ if eq $key "twitter" }}twitterbird{{ else }}{{ $key }}{{ end }}
-    </a>
-    {{ end }}
-</div>
