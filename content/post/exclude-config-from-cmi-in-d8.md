@@ -1,10 +1,10 @@
 ---
 author: "Geert van Dort"
 date: 2017-05-02
-linktitle: Drupal 8 - Exclude config from configuration management
-title: Drupal 8 - Exclude config from configuration management
+linktitle: Exclude config from configuration management in Drupal 8
+title: Exclude config from configuration management in Drupal 8
 weight: 10
-tags: [ "Drupal 8" ]
+tags: ["Drupal", "d8", "CMI"]
 ---
 
 Drupal 8 makes it really easy to export and import your entire configuration, 
