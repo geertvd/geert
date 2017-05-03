@@ -32,7 +32,7 @@ Doing this already prevents the configuration from being overridden/removed duri
 Just make sure to use the 2.x version of config ignore since 1.x didn't actually prevent the config from being deleted.
 
 ### Exclude configuration during export
-While config ignore` does a great job at avoiding configuration from being
+While config ignore does a great job at avoiding configuration from being
 imported, it doesn't actually prevent that configuration from being exported.
 While there's nothing really wrong with having that configuration exported, 
 I find it confusing and I'd prefer the ignored configuration to stay out of my repository.
