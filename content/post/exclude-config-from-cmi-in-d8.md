@@ -44,7 +44,10 @@ Let's see how we can solve this for our webform example.
 
 I created a new config split entity, let's call it "Ignored config", I leave the folder blank,
 this actually causes the configuration to be exported in the database thus preventing
-ignored configuration entities from entering our repository during export.
+ignored configuration entities from entering our repository during export.  
+I also set a negative weight (I set mine to -10), we have to do this to prevent our ignored config split entity
+from overruling the configuration ignored by the config_ignore module. 
+(Thanks to [albertski](https://www.drupal.org/u/albertski) for noticing this [issue](https://www.drupal.org/node/2883110)).  
 Besides that I just added the following in the config split entity's graylist:
 
 ```

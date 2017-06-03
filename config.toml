@@ -13,6 +13,7 @@ theme = "hugo-theme-cactus-plus"
 	enableRSS = false
     enableDisqus = true
     disqusShortname = "geertvd"
+    enableGoogleAnalytics = true
     googleAnalytics = "UA-98742701-1"
 
 	# The variables below are optionally too and can be used to
